@@ -1,0 +1,75 @@
+body{
+  background-color: 
+  margin:0;
+}
+
+
+.caja1{
+  max-width: 60%;
+  position: relative;
+  margin: auto;
+  height: 600px;
+
+
+}
+.blogSlides img {
+  padding: 30px;
+  margin-left: -30px;
+  object-fit: cover;
+  width: 100%;
+  height: 500px;
+  
+}
+
+
+.atras{
+  right: 20em;
+  position: absolute;
+  top: 250px;
+  cursor: pointer;
+}
+
+.adelante {
+  position: absolute;
+  left: 20em;
+  cursor: pointer;
+  top: 40%;
+  color: black;
+  font-weight: bold;
+ 
+
+}
+
+.atras, .adelante{
+  background-color: #ffbf00 ;
+  font-size: 50px;
+  border-radius: 50%;
+  width: 55px;
+  text-align: center;
+  border: 2px solid;
+
+
+
+}
+
+body{
+  background-image: url(imgjuan/img5.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+
+
+img{
+  display:block;
+  margin-top: 0%;
+  border-radius: 80px;
+  margin-left: 500px;
+  margin-top: 100px;
+  width: 500px;
+  height: 250px;
+}
+div{
+
+}
